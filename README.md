@@ -5,7 +5,7 @@
 
 安装依赖
 ```python
-pip install 
+pip install you-get
 ```
 
 
